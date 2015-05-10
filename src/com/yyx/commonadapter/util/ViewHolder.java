@@ -26,13 +26,8 @@ public class ViewHolder {
 	}
 
 	/**
-	 * 拿到一个ViewHolder对象
+	 * 获取到一个ViewHolder对象
 	 * 
-	 * @param context
-	 * @param convertView
-	 * @param parent
-	 * @param layoutId
-	 * @param position
 	 * @return
 	 */
 	public static ViewHolder get(Context context, View convertView,
